@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "759023728408",
+    "firebase_url": "https://tiendaonline-1a3b9.firebaseio.com",
+    "project_id": "tiendaonline-1a3b9",
+    "storage_bucket": "tiendaonline-1a3b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759023728408:android:bafdfb73a22f1d4f",
+        "android_client_info": {
+          "package_name": "com.example.personal.tiendaonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759023728408-lqetnufhi22uktqa5j1fkmtiv6u48cbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personal.tiendaonline",
+            "certificate_hash": "6ca5ef98edda8a24b097f3c34d186b648411c5ca"
+          }
+        },
+        {
+          "client_id": "759023728408-v7l68uf33340m40tg4md53npf6jm5ue6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFiL7_6NdSf7hP1Q38LZWQjoL2voscD4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759023728408-v7l68uf33340m40tg4md53npf6jm5ue6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
